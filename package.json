@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/brandonsueur/getStrava/issues"
   },
-  "homepage": "https://github.com/brandonsueur/getStrava#readme"
+  "homepage": "https://github.com/brandonsueur/getStrava#readme",
+  "dependencies": {
+    "strava": "0.0.2"
+  }
 }
